@@ -1,7 +1,0 @@
-Chapter 1 ----- Python
-Chapter 2 ----- Java
-Chapter 3 ----- C
-Chapter 5 ----- JavaScript
-Chapter 5 ----- SQL
-Chapter 6 ----- HTML
-Chapter 10 ----- TeX
